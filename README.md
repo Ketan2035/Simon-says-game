@@ -14,7 +14,7 @@ A fun and interactive memory game where the player has to repeat an increasingly
 ---
 
 ## 🕹️ How to Play
-1. Press **Start** to begin the game.
+1. Press **Any key** to begin the game.
 2. Watch carefully as the game lights up a sequence of colors.
 3. Repeat the sequence by clicking the buttons in the correct order.
 4. Each round, a new color is added to the sequence.
